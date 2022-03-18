@@ -2,17 +2,17 @@
 .box {
   position: relative;
   margin: 0 auto;
-  margin-top: 10px;
-  padding: 30px;
+  margin-top: 0.625rem;
+  padding: 1.875rem;
   width: 70%;
-  height: 300px;
+  height: 18.75rem;
   color: var(--text-color);
-  border-radius: 5px;
+  border-radius: 0.31rem;
   border: 0.1px solid var(--text-color);
 }
 .circulo {
-  width: 190px;
-  height: 190px;
+  width: 11.875rem;
+  height: 11.875rem;
   /* background-image: url(/Video5/assets/img/fondoBoton.png); */
   background-image: url("https://www.html6.es/img/fondoBoton.png");
   background-position: center;
@@ -27,12 +27,12 @@
 }
 .flecha {
   font-size: 4em;
-  width: 190px;
-  height: 190px;
+  width: 11.875rem;
+  height: 11.875rem;
   color: red;
 }
 .porcentaje {
-  margin-top: 15px;
+  margin-top: 0.973rem;
   font-size: 1.5em;
 }
 
