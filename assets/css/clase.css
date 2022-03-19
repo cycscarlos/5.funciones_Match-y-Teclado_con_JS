@@ -1,9 +1,8 @@
 /*: Estilos de la clase de Javascript */
 .box {
   position: relative;
-  margin: 0 auto;
-  margin-top: 0.625rem;
-  padding: 1.875rem;
+  margin: 0 auto; 
+  margin-top: 0.31rem;
   width: 70%;
   height: 18.75rem;
   color: var(--text-color);
@@ -12,8 +11,7 @@
 }
 .circulo {
   width: 11.875rem;
-  height: 11.875rem;
-  /* background-image: url(/Video5/assets/img/fondoBoton.png); */
+  height: 11.875rem; 
   background-image: url("https://www.html6.es/img/fondoBoton.png");
   background-position: center;
   background-repeat: no-repeat;
